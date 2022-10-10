@@ -1,4 +1,4 @@
-# Add a javascipt-bot
+# Add a javascript-bot
 Create a chat bot using javascript
 
 
