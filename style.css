@@ -12,14 +12,19 @@
       font-family: 'Poppins', sans-serif;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-      background-color: whitesmoke;
+      background-color: #a2d5e2;
       height: 100%;
       margin: 0;
   }
-  
+  h1{
+    color: #dddddd;
+text-shadow: 6px -6px 21px #4b4b4b,
+-6px 6px 21px #ffffff;
+  }
     span {
       padding-right: 15px;
       padding-left: 15px;
+      color: #fff;
   }
   
     .container {
@@ -29,13 +34,14 @@
       width: 100%;
       height: 100%;
       position: relative;
-    bottom: 68px;
+    /* bottom: 68px; */
   }
 
   .bg-chat{
-    background-color: rgb(31, 189, 251);
-    border: 4px solid rgb(61, 147, 196);
-    border-radius: 10px;
+    border-radius: 38px;
+    background: linear-gradient(145deg, #92c0cb, #ade4f2);
+    box-shadow:  21px 21px 61px #688891,
+                 -21px -21px 61px #dcffff;
     width: 900px;
     height: 450px;
     display: flex;
