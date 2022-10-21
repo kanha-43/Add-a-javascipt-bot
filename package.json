@@ -1,0 +1,23 @@
+{
+  "name": "add-a-javascipt-bot",
+  "version": "1.0.0",
+  "description": "![19211](https://user-images.githubusercontent.com/115480468/195635237-0f4d1b0e-248b-4d60-87f9-df7ec1b8e737.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikraj01/Add-a-javascipt-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikraj01/Add-a-javascipt-bot/issues"
+  },
+  "homepage": "https://github.com/vikraj01/Add-a-javascipt-bot#readme",
+  "dependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
